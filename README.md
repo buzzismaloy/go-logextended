@@ -59,7 +59,6 @@ const (
 
 ```
 .
-├── main.go
 ├── go.mod
 └── logextended
     └── logextended.go
